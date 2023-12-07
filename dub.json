@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"Rofael Aleezada"
+	],
+	"copyright": "Copyright © 2023, Rofael Aleezada",
+	"description": "A minimal D application.",
+	"license": "MIT",
+	"name": "advent-of-code-2023-d",
+	"targetType": "executable"
+}

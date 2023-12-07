@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/advent-of-code-2023-d
+advent-of-code-2023-d.so
+advent-of-code-2023-d.dylib
+advent-of-code-2023-d.dll
+advent-of-code-2023-d.a
+advent-of-code-2023-d.lib
+advent-of-code-2023-d-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
+*.a
